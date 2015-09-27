@@ -3,7 +3,7 @@
  * Plugin Name: Opacity-Showing Related Posts 
  * Description: After active this pluginyou will able to show your related posts in your post contetnt automatically.[Note: it will show posts per page 5. If you want you can modify it from the function]
  * Version: 1.0
- * Plugin URI: 
+ * Plugin URI: https://github.com/sagar290/op_show_relatedposts.git
  * Author: Sagar Dash
  * Author URI: opacity.blog.com
  * License: GPL v2 or later
